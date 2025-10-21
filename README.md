@@ -2,7 +2,7 @@
 
 # Description
 My repository of **infrastructure-as-code (IaC)** and **DevOps automation scripts** designed to deploy, configure, and manage cloud environments. 
-The implementation uses either **Terraform**, **Ansible**, **Bash**, and **Python** to provision resources, enforce consistency, and streamline 
+The implementation uses either **Python**, **Bash**, **Ansible**, and **Terraform** to provision resources, enforce consistency, and streamline 
 cloud operations.
 
 # Key Features
